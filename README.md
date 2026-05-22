@@ -1,7 +1,6 @@
 ## Hello
 
-Here are some ideas to get you started:
-My name is Maple, a student at UIUC. 
+My name is Maple.
 
 I can design and build most things. Its a gamble. 
 
