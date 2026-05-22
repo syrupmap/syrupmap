@@ -1,8 +1,5 @@
-## Hello
+## Hello World
 
-My name is Maple.
+My name is Maple Fan, a student at UIUC. 
 
-I can design and build most things. Its a gamble. 
-
-My main tech stack is javascript, c++, typescript. Favorite tools are collanote, ibis-paint, blender. 
 
