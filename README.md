@@ -1,5 +1,5 @@
 ## Hello World
 
-My name is Maple Fan, a student at UIUC. 
+I am a student at UIUC learning how to code.
 
 
