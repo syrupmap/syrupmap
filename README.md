@@ -1,9 +1,4 @@
 # Hi! My name is Maple 🍁
-
-<p align="center">
-  <img width="1584" height="396" alt="Blue and White Minimalist Business Consultant Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/abe95d48-beee-46f8-8c5e-c4bec8757030" />
-</p>
-
 I am a student learning how to code with interests in cloud computing, cybersecurity, and creative development. I enjoy building artistic+technical projects that have real world and personal impact. 
 
 Feel free to follow me, I would love to GIT followers and follow you back AAHHAAH
