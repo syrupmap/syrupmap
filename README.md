@@ -2,7 +2,7 @@
 
 I am a student learning how to code with interests in cloud computing, cybersecurity, and creative development. I enjoy building artistic+technical projects that have real world and personal impact. 
 
-## Featured Projects
+## Projects I've Done
 
 | Project | Description | Stack |
 |----------|-------------|--------|
