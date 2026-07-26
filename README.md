@@ -2,6 +2,8 @@
 I am a student learning how to code with interests in cloud computing, cybersecurity, and creative development. I enjoy building artistic+technical projects that have real world and personal impact. 
 
 Feel free to follow me, I would love to GIT followers and follow you back AAHHAAH
+<img width="1500" height="500" alt="Untitled64_20260726045510" src="https://github.com/user-attachments/assets/6d191b2e-a5d4-4e95-aded-63451d84272c" />
+
 
 ## Projects I've Done
 
