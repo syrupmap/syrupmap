@@ -39,8 +39,7 @@ I am a student learning how to code with interests in cloud computing, cybersecu
 ## Favorite Quote
 "Perhaps the immobility of the things that surround us is forced upon them by
 our conviction that they are themselves, and not anything else, and by the
-immobility of our conceptions of them." 
-- In Search of Lost Time
+immobility of our conceptions of them." - In Search of Lost Time
 
 
 ⭐  Feel free to follow me, I would love to GIT followers and follow you back. 
