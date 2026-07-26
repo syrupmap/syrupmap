@@ -31,10 +31,10 @@ I am a student learning how to code with interests in cloud computing, cybersecu
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## Currently Working On
-- 🎮 Seed Dispatch (Climate Jam 2026)
-- ☁️ AWS Cloud Architecture Projects
-- 🏙️ Procedural City Generation in Unity
-- 🔬 Undergraduate Research at UIUC
+- Seed Dispatch (Climate Jam 2026)
+- AWS Cloud Architecture Projects
+- Procedural City Generation in Unity
+- Undergraduate Research
 
 ## Favorite Quote
 "Perhaps the immobility of the things that surround us is forced upon them by
