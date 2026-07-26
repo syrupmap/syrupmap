@@ -42,4 +42,4 @@ our conviction that they are themselves, and not anything else, and by the
 immobility of our conceptions of them." - In Search of Lost Time
 
 
-⭐  Feel free to follow me, I would love to GIT followers and follow you back. 
+Feel free to follow me, I would love to GIT followers and follow you back. 
