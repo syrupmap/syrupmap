@@ -1,12 +1,25 @@
 # Hi! My name is Maple 🍁
 
+<p align="center">
+  <img width="1584" height="396" alt="Blue and White Minimalist Business Consultant Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/abe95d48-beee-46f8-8c5e-c4bec8757030" />
+</p>
+
 I am a student learning how to code with interests in cloud computing, cybersecurity, and creative development. I enjoy building artistic+technical projects that have real world and personal impact. 
 
 Feel free to follow me, I would love to GIT followers and follow you back AAHHAAH
+╔══════════════════════════════════════════════════════════╗
+║                     PLAYER PROFILE                      ║
+╠══════════════════════════════════════════════════════════╣
+║ Name        │ Maple 🍁                                  ║
+║ Class       │ Student Developer                         ║
+║ Guild       │ University of Illinois Urbana-Champaign   ║
+║ Alignment   │ Creative Good                             ║
+║ Level       │ 20                                         ║
+╠══════════════════════════════════════════════════════════╣
 
-## Projects I've Done
+## Completed Quests
 
-| Project | Description | Stack |
+| Quest | Objective | Reward |
 |----------|-------------|--------|
 | **WildRydes AWS** | Serverless ride-sharing platform built using AWS services and event-driven architecture. | AWS Lambda, DynamoDB, Cognito, API Gateway |
 | **Seed Dispatch** | Climate-focused strategy game where players deploy plant species to restore ecosystems around the world. | Unity, C#, Blender |
@@ -15,7 +28,7 @@ Feel free to follow me, I would love to GIT followers and follow you back AAHHAA
 | **SME Digitization Research** | Research project analyzing digital transformation policies and economic outcomes in Latin America. | R, Data Analysis, GIS |
 ---
 
-## Tech Stack
+## Equipped Weapons
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
