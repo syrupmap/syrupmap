@@ -14,7 +14,7 @@ Feel free to follow me, I would love to GIT followers and follow you back AAHHAA
 | **WildRydes AWS** | Serverless ride-sharing platform built using AWS services and event-driven architecture. | AWS Lambda, DynamoDB, Cognito, API Gateway |
 | **Seed Dispatch** | Climate-focused strategy game where players deploy plant species to restore ecosystems around the world. | Unity, C#, Blender |
 | **Procedural City Generator** | Modular procedural city generation system with customizable districts and road networks. | Unity, C#, Algorithms |
-| **Pneumonia Detection AI** | Computer vision model for identifying pneumonia from chest X-ray images. | Python, TensorFlow, NumPy |
+| **Pneumonia Detection AI** | Computer vision model for identifying pneumonia from chest X-ray images. | Python, NumPy |
 | **SME Digitization Research** | Research project analyzing digital transformation policies and economic outcomes in Latin America. | R, Data Analysis, GIS |
 ---
 
