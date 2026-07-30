@@ -15,7 +15,7 @@ Feel free to follow me, I would love to GIT followers and follow you back AAHHAA
 | **Seed Dispatch** | Climate-focused strategy game where players deploy plant species to restore ecosystems around the world. | Unity, C#, Blender |
 | **Procedural City Generator** | Modular procedural city generation system with customizable districts and road networks. | Unity, C#, Algorithms |
 | **Pneumonia Detection AI** | Computer vision model for identifying pneumonia from chest X-ray images. | Python, NumPy |
-| **SME Digitization Research** | Research project analyzing digital transformation policies and economic outcomes in Latin America. | R, Data Analysis, GIS |
+| **SME Digitization Research** | Research project analyzing digital transformation policies and economic outcomes in Latin America. | R, Data Analysis|
 ---
 
 ## Tech Stack
