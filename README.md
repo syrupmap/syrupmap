@@ -1,5 +1,5 @@
 # Hi! My name is Maple 
-I am a student learning how to code with interests in medical tech, legal tech, and creative development. I enjoy building artistic+technical projects that are interactive and multidisciplinary. 
+I am a student learning how to code with interests in fullstack development, medical tech, and security. I enjoy building artistic+technical projects that are interactive and multidisciplinary. 
 
 Feel free to follow me, I would love to GIT followers and follow you back AAHHAAH
 <p>
