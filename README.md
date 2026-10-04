@@ -1,7 +1,7 @@
 # Hi! My name is Maple 
 I am a student learning how to code with interests in fullstack development and medical tech. I enjoy building artistic+technical projects that are interactive and multidisciplinary. 
 
-Feel free to follow me, I would love to GIT followers and follow you back AAHHAAH
+If I follow you, one of your projects caught my eye! 
 <p>
   <img width="1500" height="500" alt="Untitled64_20260726045510" src="https://github.com/user-attachments/assets/6d191b2e-a5d4-4e95-aded-63451d84272c" />
 </p>
